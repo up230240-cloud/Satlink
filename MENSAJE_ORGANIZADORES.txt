@@ -1,0 +1,6 @@
+Hola, soy Winnie (equipo con DevEUI F19424C168C6D04D). Mi dispositivo ya está listo; solo necesito dos cosas:
+
+1) La AppKey completa (32 caracteres hexadecimales). Lo que me enviaron tiene 16 caracteres y es igual al JoinEUI.
+2) Si es posible, pegar el archivo chirpstack_decoder.js en el perfil de dispositivo (Device profile -> Codec -> "JavaScript functions"), porque yo no puedo editarlo. Con eso el dashboard mostrará mis datos decodificados (payload de 26 bytes, FPort 1).
+
+Gracias.
